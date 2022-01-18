@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextMod/static/css/main.c48674d7.css",
-    "main.js": "/TextMod/static/js/main.40241085.js",
+    "main.css": "/TextMod/static/css/main.516570dd.css",
+    "main.js": "/TextMod/static/js/main.c39031b9.js",
     "static/js/787.e84c220b.chunk.js": "/TextMod/static/js/787.e84c220b.chunk.js",
     "index.html": "/TextMod/index.html",
-    "main.c48674d7.css.map": "/TextMod/static/css/main.c48674d7.css.map",
-    "main.40241085.js.map": "/TextMod/static/js/main.40241085.js.map",
+    "main.516570dd.css.map": "/TextMod/static/css/main.516570dd.css.map",
+    "main.c39031b9.js.map": "/TextMod/static/js/main.c39031b9.js.map",
     "787.e84c220b.chunk.js.map": "/TextMod/static/js/787.e84c220b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c48674d7.css",
-    "static/js/main.40241085.js"
+    "static/css/main.516570dd.css",
+    "static/js/main.c39031b9.js"
   ]
 }
